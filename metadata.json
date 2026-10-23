@@ -1,0 +1,6 @@
+{
+  "name": "LinguaLearn",
+  "description": "A production-grade language learning platform with interactive lectures, tests, speech synthesis, and AI translator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
